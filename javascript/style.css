@@ -1,0 +1,9 @@
+/* html{
+    background-color: rgb(127, 127, 173);
+} */
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(127, 127, 173);
+}
